@@ -1,1 +1,3 @@
-# sd-app-jenkin
+# maven-project
+
+Simple Maven Project
